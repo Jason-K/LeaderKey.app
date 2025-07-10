@@ -224,6 +224,7 @@ struct ActionRow: View {
         Text("URL").tag(Type.url)
         Text("Command").tag(Type.command)
         Text("Folder").tag(Type.folder)
+        Text("Last Command").tag(Type.lastCommand)
       }
       .frame(width: 110)
       .labelsHidden()
@@ -266,6 +267,10 @@ struct ActionRow: View {
           }
         }
         Text(action.value).truncationMode(.middle).lineLimit(1)
+      case .lastCommand:
+        Text("Repeats the last executed command")
+          .foregroundColor(.secondary)
+          .italic()
       default:
         TextField("Value", text: $action.value)
       }

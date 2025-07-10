@@ -18,10 +18,12 @@
 		42454DDD2D71CBAB004E1374 /* ConfigValidatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42454DDC2D71CBAB004E1374 /* ConfigValidatorTests.swift */; };
 		425495402D75EFAD0020300E /* ForTheHorde.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4254953F2D75EFAD0020300E /* ForTheHorde.swift */; };
 		426E625B2D2E6A98009FD2F2 /* CommandRunner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426E625A2D2E6A98009FD2F2 /* CommandRunner.swift */; };
+		426E625D2D2E6A99009FD2F2 /* LastCommandTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 426E625C2D2E6A99009FD2F2 /* LastCommandTracker.swift */; };
 		4279AFED2C6A175500952A83 /* LaunchAtLogin in Frameworks */ = {isa = PBXBuildFile; productRef = 4279AFEC2C6A175500952A83 /* LaunchAtLogin */; };
 		427C17EF2BD311B500955B98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 427C17EE2BD311B500955B98 /* Assets.xcassets */; };
 		427C17F22BD311B500955B98 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 427C17F12BD311B500955B98 /* Preview Assets.xcassets */; };
 		427C17FD2BD311B500955B98 /* UserConfigTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 427C17FC2BD311B500955B98 /* UserConfigTests.swift */; };
+		427C17FE2BD311B600955B98 /* LastCommandTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 427C17FD2BD311B600955B98 /* LastCommandTrackerTests.swift */; };
 		427C18172BD311ED00955B98 /* KeyboardShortcuts in Frameworks */ = {isa = PBXBuildFile; productRef = 427C18162BD311ED00955B98 /* KeyboardShortcuts */; };
 		427C181A2BD3123C00955B98 /* Defaults in Frameworks */ = {isa = PBXBuildFile; productRef = 427C18192BD3123C00955B98 /* Defaults */; };
 		427C181C2BD314B500955B98 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 427C181B2BD314B500955B98 /* Constants.swift */; };
@@ -75,6 +77,7 @@
 		42454DDC2D71CBAB004E1374 /* ConfigValidatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfigValidatorTests.swift; sourceTree = "<group>"; };
 		4254953F2D75EFAD0020300E /* ForTheHorde.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForTheHorde.swift; sourceTree = "<group>"; };
 		426E625A2D2E6A98009FD2F2 /* CommandRunner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommandRunner.swift; sourceTree = "<group>"; };
+		426E625C2D2E6A99009FD2F2 /* LastCommandTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastCommandTracker.swift; sourceTree = "<group>"; };
 		4279AFEA2C6A08B100952A83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Leader Key/Support/Info.plist"; sourceTree = SOURCE_ROOT; };
 		427C17E72BD311B400955B98 /* Leader Key.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Leader Key.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		427C17EE2BD311B500955B98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -82,6 +85,7 @@
 		427C17F32BD311B500955B98 /* Leader_Key.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Leader_Key.entitlements; sourceTree = "<group>"; };
 		427C17F82BD311B500955B98 /* Leader KeyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Leader KeyTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		427C17FC2BD311B500955B98 /* UserConfigTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserConfigTests.swift; sourceTree = "<group>"; };
+		427C17FD2BD311B600955B98 /* LastCommandTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastCommandTrackerTests.swift; sourceTree = "<group>"; };
 		427C181B2BD314B500955B98 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		427C181F2BD31C3D00955B98 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		427C18242BD31E2E00955B98 /* GeneralPane.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeneralPane.swift; sourceTree = "<group>"; };
@@ -180,6 +184,7 @@
 				427C181F2BD31C3D00955B98 /* AppDelegate.swift */,
 				42F4CDCE2D46E2B300D0DD76 /* Cheatsheet.swift */,
 				426E625A2D2E6A98009FD2F2 /* CommandRunner.swift */,
+				426E625C2D2E6A99009FD2F2 /* LastCommandTracker.swift */,
 				42454DDA2D71CB39004E1374 /* ConfigValidator.swift */,
 				427C181B2BD314B500955B98 /* Constants.swift */,
 				427C18272BD31E2E00955B98 /* Controller.swift */,
@@ -217,6 +222,7 @@
 			isa = PBXGroup;
 			children = (
 				42454DDC2D71CBAB004E1374 /* ConfigValidatorTests.swift */,
+				427C17FD2BD311B600955B98 /* LastCommandTrackerTests.swift */,
 				427C17FC2BD311B500955B98 /* UserConfigTests.swift */,
 			);
 			path = "Leader KeyTests";
@@ -412,6 +418,7 @@
 				423632132D676F5200878D92 /* FileMonitor.swift in Sources */,
 				427C182D2BD31F9500955B98 /* Settings.swift in Sources */,
 				426E625B2D2E6A98009FD2F2 /* CommandRunner.swift in Sources */,
+				426E625D2D2E6A99009FD2F2 /* LastCommandTracker.swift in Sources */,
 				427C18382BD3262100955B98 /* VisualEffectBackground.swift in Sources */,
 				42B21FBC2D67566100F4A2C7 /* Alerts.swift in Sources */,
 				427C183B2BD329F900955B98 /* UserConfig.swift in Sources */,
@@ -437,6 +444,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				42454DDD2D71CBAB004E1374 /* ConfigValidatorTests.swift in Sources */,
+				427C17FE2BD311B600955B98 /* LastCommandTrackerTests.swift in Sources */,
 				427C17FD2BD311B500955B98 /* UserConfigTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -492,7 +500,6 @@
 				COPY_PHASE_STRIP = NO;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = DDB8SQMXS9;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -557,7 +564,6 @@
 				COPY_PHASE_STRIP = NO;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = DDB8SQMXS9;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -591,6 +597,7 @@
 				CURRENT_PROJECT_VERSION = 126;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Leader Key/Support/Preview Content\"";
+				DEVELOPMENT_TEAM = 7KDF7842U2;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -627,6 +634,7 @@
 				CURRENT_PROJECT_VERSION = 126;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Leader Key/Support/Preview Content\"";
+				DEVELOPMENT_TEAM = 7KDF7842U2;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;

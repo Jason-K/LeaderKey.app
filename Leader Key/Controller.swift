@@ -289,6 +289,8 @@ class Controller {
     case .folder:
       let path: String = (action.value as NSString).expandingTildeInPath
       NSWorkspace.shared.selectFile(nil, inFileViewerRootedAtPath: path)
+    case .lastCommand:
+      runLastCommand()
     default:
       print("\(action.type) unknown")
     }
@@ -300,6 +302,17 @@ class Controller {
 
   private func clear() {
     userState.clear()
+  }
+
+  private func runLastCommand() {
+    guard let lastCommand = LastCommandTracker.shared.getLastCommand() else {
+      showAlert(
+        title: "No Previous Command",
+        message: "No command has been executed yet to repeat.")
+      return
+    }
+
+    CommandRunner.run(lastCommand)
   }
 
   private func openURL(_ action: Action) {

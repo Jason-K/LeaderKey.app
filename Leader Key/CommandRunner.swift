@@ -2,6 +2,9 @@ import Cocoa
 
 class CommandRunner {
   static func run(_ command: String) {
+    // Track the command before execution
+    LastCommandTracker.shared.recordCommand(command)
+
     let task = Process()
     let pipe = Pipe()
     let errorPipe = Pipe()
