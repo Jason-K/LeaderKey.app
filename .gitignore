@@ -1,3 +1,27 @@
 Updates/*
 *xcuserdata*
 default.profraw
+
+# macOS
+.DS_Store
+
+# Xcode build products
+build/
+DerivedData/
+
+# Xcode user-specific metadata
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+
+# Swift Package Manager (local build output)
+.build/
+.swiftpm/xcode/xcuserdata/
+
+# IDE cruft (optional)
+.idea/
+.vscode/
+
+# Logs and temp
+*.log
+*.tmp
