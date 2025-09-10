@@ -25,3 +25,23 @@ xcuserdata/
 # Logs and temp
 *.log
 *.tmp
+# --- LeaderKey local build artifacts ---
+.DS_Store
+build/
+DerivedData/
+
+# Xcode user data
+*.xcuserstate
+xcuserdata/
+
+# SwiftPM
+.build/
+.swiftpm/xcode/xcuserdata/
+
+# Editors
+.idea/
+.vscode/
+
+# Logs / temp
+*.log
+*.tmp
