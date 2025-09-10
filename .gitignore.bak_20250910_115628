@@ -22,11 +22,4 @@ xcuserdata/
 .swiftpm/
 fastlane/report.xml
 fastlane/Preview.html
-fastlane/screenshots/**/*.png# macOS
-# Xcode
-# If a workspace exists:
-# Leader Key.xcodeproj/project.xcworkspace/xcuserdata/
-# SwiftPM
-# Logs
-# Fastlane (if used)
 fastlane/screenshots/**/*.png
