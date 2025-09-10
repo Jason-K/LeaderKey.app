@@ -1,47 +1,25 @@
 Updates/*
 *xcuserdata*
 default.profraw
-
-# macOS
 .DS_Store
-
-# Xcode build products
 build/
 DerivedData/
-
-# Xcode user-specific metadata
 *.xcuserstate
 xcuserdata/
 *.moved-aside
-
-# Swift Package Manager (local build output)
 .build/
 .swiftpm/xcode/xcuserdata/
-
-# IDE cruft (optional)
 .idea/
 .vscode/
-
-# Logs and temp
 *.log
 *.tmp
-# --- LeaderKey local build artifacts ---
-.DS_Store
-build/
-DerivedData/
-
-# Xcode user data
-*.xcuserstate
-xcuserdata/
-
-# SwiftPM
-.build/
-.swiftpm/xcode/xcuserdata/
-
-# Editors
-.idea/
-.vscode/
-
-# Logs / temp
-*.log
-*.tmp
+.AppleDouble
+.LSOverride
+*.xcscmblueprint
+*.xccheckout
+*.xcworkspacedata
+ Leader Key.xcodeproj/project.xcworkspace/xcuserdata/
+.swiftpm/
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
