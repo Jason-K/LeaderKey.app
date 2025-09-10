@@ -1,0 +1,30 @@
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Cache/MemoryStorage.swift":
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/MemoryStorage.o"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/MemoryStorage.d"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/MemoryStorage.swiftdeps"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/MemoryStorage.dia"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/MemoryStorage.swiftconstvalues"
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift":
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageView+Kingfisher.swiftconstvalues"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageView+Kingfisher.swiftdeps"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageView+Kingfisher.dia"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageView+Kingfisher.o"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageView+Kingfisher.d"
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Extensions/CPListItem+Kingfisher.swift":
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/CPListItem+Kingfisher.o"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/CPListItem+Kingfisher.d"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/CPListItem+Kingfisher.swiftdeps"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/CPListItem+Kingfisher.swiftconstvalues"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/CPListItem+Kingfisher.dia"
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Extensions/HasImageComponent+Kingfisher.swift":
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/HasImageComponent+Kingfisher.swiftconstvalues"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/HasImageComponent+Kingfisher.dia"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/HasImageComponent+Kingfisher.o"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/HasImageComponent+Kingfisher.d"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/HasImageComponent+Kingfisher.swiftdeps"
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Cache/Storage.swift":
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Storage.o"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Storage.swiftdeps"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Storage.swiftconstvalues"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Storage.dia"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Storage.d"

@@ -1,0 +1,30 @@
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImagePrefetcher.swift":
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImagePrefetcher.dia"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImagePrefetcher.swiftconstvalues"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImagePrefetcher.swiftdeps"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImagePrefetcher.o"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImagePrefetcher.d"
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Networking/RedirectHandler.swift":
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/RedirectHandler.o"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/RedirectHandler.d"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/RedirectHandler.swiftdeps"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/RedirectHandler.dia"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/RedirectHandler.swiftconstvalues"
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageModifier.swift":
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageModifier.swiftdeps"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageModifier.d"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageModifier.o"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageModifier.dia"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageModifier.swiftconstvalues"
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift":
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloaderDelegate.d"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloaderDelegate.swiftconstvalues"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloaderDelegate.o"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloaderDelegate.swiftdeps"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloaderDelegate.dia"
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift":
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloader.o"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloader.swiftdeps"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloader.d"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloader.swiftconstvalues"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ImageDownloader.dia"

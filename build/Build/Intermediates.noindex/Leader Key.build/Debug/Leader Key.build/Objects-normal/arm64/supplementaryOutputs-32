@@ -1,0 +1,18 @@
+"/Users/jason/Gits/LeaderKey_Mikker/Leader Key/Cheatsheet.swift":
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Cheatsheet.swiftdeps"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Cheatsheet.swiftconstvalues"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Cheatsheet.d"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Cheatsheet.dia"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Cheatsheet.o"
+"/Users/jason/Gits/LeaderKey_Mikker/Leader Key/Themes/ForTheHorde.swift":
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/ForTheHorde.swiftdeps"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/ForTheHorde.dia"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/ForTheHorde.o"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/ForTheHorde.d"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/ForTheHorde.swiftconstvalues"
+"/Users/jason/Gits/LeaderKey_Mikker/Leader Key/Events.swift":
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Events.dia"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Events.swiftconstvalues"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Events.d"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Events.swiftdeps"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Events.o"

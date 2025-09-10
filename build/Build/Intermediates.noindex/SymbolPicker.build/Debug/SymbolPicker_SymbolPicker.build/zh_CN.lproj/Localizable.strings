@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancel</key>
+	<string>取消</string>
+	<key>done</key>
+	<string>确定</string>
+	<key>remove_symbol</key>
+	<string>移除符号</string>
+	<key>search_placeholder</key>
+	<string>搜索</string>
+</dict>
+</plist>

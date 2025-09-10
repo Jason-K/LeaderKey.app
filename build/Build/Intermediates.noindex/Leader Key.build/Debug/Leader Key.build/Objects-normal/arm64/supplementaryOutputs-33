@@ -1,0 +1,18 @@
+"/Users/jason/Gits/LeaderKey_Mikker/Leader Key/FileMonitor.swift":
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/FileMonitor.swiftdeps"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/FileMonitor.swiftconstvalues"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/FileMonitor.dia"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/FileMonitor.o"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/FileMonitor.d"
+"/Users/jason/Gits/LeaderKey_Mikker/Leader Key/CommandRunner.swift":
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/CommandRunner.swiftconstvalues"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/CommandRunner.d"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/CommandRunner.dia"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/CommandRunner.o"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/CommandRunner.swiftdeps"
+"/Users/jason/Gits/LeaderKey_Mikker/Leader Key/Settings.swift":
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Settings.d"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Settings.dia"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Settings.swiftdeps"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Settings.o"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Leader Key.build/Debug/Leader Key.build/Objects-normal/arm64/Settings.swiftconstvalues"

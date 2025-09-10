@@ -1,0 +1,16 @@
+{
+  "source": "/Users/jason/Gits/LeaderKey_Mikker/Leader Key/Views/KeyButton.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Current value: '%@'",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 151
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,24 @@
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift":
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.d"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.swiftconstvalues"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.o"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.swiftdeps"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/ExtensionHelpers.dia"
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift":
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Result.o"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Result.d"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Result.swiftconstvalues"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Result.swiftdeps"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Result.dia"
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Utility/DisplayLink.swift":
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/DisplayLink.d"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/DisplayLink.swiftconstvalues"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/DisplayLink.swiftdeps"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/DisplayLink.dia"
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/DisplayLink.o"
+"/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift":
+  object: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Runtime.o"
+  swift-dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Runtime.swiftdeps"
+  dependencies: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Runtime.d"
+  diagnostics: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Runtime.dia"
+  const-values: "/Users/jason/Gits/LeaderKey_Mikker/build/Build/Intermediates.noindex/Kingfisher.build/Debug/Kingfisher.build/Objects-normal/arm64/Runtime.swiftconstvalues"

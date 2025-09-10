@@ -230,7 +230,7 @@ enum Type: String, Codable {
   case url
   case command
   case folder
-  case lastCommand
+  case redo
 }
 
 protocol Item {
@@ -265,8 +265,8 @@ struct Action: Item, Codable, Equatable {
       return (value as NSString).lastPathComponent
     case .url:
       return "URL"
-    case .lastCommand:
-      return "Redo last command"
+    case .redo:
+      return "Redo"
     default:
       return value
     }

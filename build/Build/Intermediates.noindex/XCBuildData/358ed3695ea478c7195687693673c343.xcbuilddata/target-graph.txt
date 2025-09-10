@@ -1,0 +1,47 @@
+Target dependency graph (21 targets)
+Target 'Leader Key' in project 'Leader Key'
+➜ Explicit dependency on target 'Lint' in project 'Swift Format Plugins'
+➜ Explicit dependency on target 'Kingfisher' in project 'Kingfisher'
+➜ Explicit dependency on target 'Sparkle' in project 'Sparkle'
+➜ Explicit dependency on target 'Settings' in project 'Settings'
+➜ Explicit dependency on target 'SymbolPicker' in project 'SymbolPicker'
+➜ Explicit dependency on target 'Defaults' in project 'Defaults'
+➜ Explicit dependency on target 'LaunchAtLogin' in project 'LaunchAtLogin'
+➜ Explicit dependency on target 'KeyboardShortcuts' in project 'KeyboardShortcuts'
+Target 'KeyboardShortcuts' in project 'KeyboardShortcuts'
+➜ Explicit dependency on target 'KeyboardShortcuts' in project 'KeyboardShortcuts'
+➜ Explicit dependency on target 'KeyboardShortcuts_KeyboardShortcuts' in project 'KeyboardShortcuts'
+Target 'KeyboardShortcuts' in project 'KeyboardShortcuts'
+➜ Explicit dependency on target 'KeyboardShortcuts_KeyboardShortcuts' in project 'KeyboardShortcuts'
+Target 'KeyboardShortcuts_KeyboardShortcuts' in project 'KeyboardShortcuts' (no dependencies)
+Target 'LaunchAtLogin' in project 'LaunchAtLogin'
+➜ Explicit dependency on target 'LaunchAtLogin' in project 'LaunchAtLogin'
+Target 'LaunchAtLogin' in project 'LaunchAtLogin' (no dependencies)
+Target 'Defaults' in project 'Defaults'
+➜ Explicit dependency on target 'Defaults' in project 'Defaults'
+➜ Explicit dependency on target 'Defaults_Defaults' in project 'Defaults'
+Target 'Defaults' in project 'Defaults'
+➜ Explicit dependency on target 'Defaults_Defaults' in project 'Defaults'
+Target 'Defaults_Defaults' in project 'Defaults' (no dependencies)
+Target 'SymbolPicker' in project 'SymbolPicker'
+➜ Explicit dependency on target 'SymbolPicker' in project 'SymbolPicker'
+➜ Explicit dependency on target 'SymbolPicker_SymbolPicker' in project 'SymbolPicker'
+Target 'SymbolPicker' in project 'SymbolPicker'
+➜ Explicit dependency on target 'SymbolPicker_SymbolPicker' in project 'SymbolPicker'
+Target 'SymbolPicker_SymbolPicker' in project 'SymbolPicker' (no dependencies)
+Target 'Settings' in project 'Settings'
+➜ Explicit dependency on target 'Settings' in project 'Settings'
+➜ Explicit dependency on target 'Settings_Settings' in project 'Settings'
+Target 'Settings' in project 'Settings'
+➜ Explicit dependency on target 'Settings_Settings' in project 'Settings'
+Target 'Settings_Settings' in project 'Settings' (no dependencies)
+Target 'Sparkle' in project 'Sparkle' (no dependencies)
+Target 'Kingfisher' in project 'Kingfisher'
+➜ Explicit dependency on target 'Kingfisher' in project 'Kingfisher'
+➜ Explicit dependency on target 'Kingfisher_Kingfisher' in project 'Kingfisher'
+Target 'Kingfisher' in project 'Kingfisher'
+➜ Explicit dependency on target 'Kingfisher_Kingfisher' in project 'Kingfisher'
+Target 'Kingfisher_Kingfisher' in project 'Kingfisher' (no dependencies)
+Target 'Lint' in project 'Swift Format Plugins'
+➜ Explicit dependency on target 'Lint' in project 'Swift Format Plugins'
+Target 'Lint' in project 'Swift Format Plugins' (no dependencies)

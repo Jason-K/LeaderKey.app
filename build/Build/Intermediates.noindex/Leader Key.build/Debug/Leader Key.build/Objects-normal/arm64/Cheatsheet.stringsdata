@@ -1,0 +1,32 @@
+{
+  "source": "/Users/jason/Gits/LeaderKey_Mikker/Leader Key/Cheatsheet.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "  ",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ item(s)",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "  ",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 68
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -23,6 +23,9 @@ class Controller {
   var cheatsheetWindow: NSWindow!
   private var cheatsheetTimer: Timer?
 
+  // Tracks the last executed non-group, non-redo action for the Redo feature
+  private var lastExecutableAction: Action?
+
   private var cancellables = Set<AnyCancellable>()
 
   init(userState: UserState, userConfig: UserConfig) {
@@ -277,42 +280,55 @@ class Controller {
   }
 
   private func runAction(_ action: Action) {
-    switch action.type {
-    case .application:
-      NSWorkspace.shared.openApplication(
-        at: URL(fileURLWithPath: action.value),
-        configuration: NSWorkspace.OpenConfiguration())
-    case .url:
-      openURL(action)
-    case .command:
-      CommandRunner.run(action.value)
-    case .folder:
-      let path: String = (action.value as NSString).expandingTildeInPath
-      NSWorkspace.shared.selectFile(nil, inFileViewerRootedAtPath: path)
-    case .lastCommand:
-      runLastCommand()
-    default:
-      print("\(action.type) unknown")
+    func execute(_ a: Action, record: Bool) {
+      switch a.type {
+      case .application:
+        NSWorkspace.shared.openApplication(
+          at: URL(fileURLWithPath: a.value),
+          configuration: NSWorkspace.OpenConfiguration())
+      case .url:
+        openURL(a)
+      case .command:
+        CommandRunner.run(a.value)
+      case .folder:
+        let path: String = (a.value as NSString).expandingTildeInPath
+        NSWorkspace.shared.selectFile(nil, inFileViewerRootedAtPath: path)
+      case .redo:
+        // handled below
+        break
+      default:
+        print("\(a.type) unknown")
+      }
+
+      if record {
+        switch a.type {
+        case .application, .url, .command, .folder:
+          self.lastExecutableAction = a
+        default:
+          break
+        }
+      }
+
+      if self.window.isVisible {
+        self.window.makeKeyAndOrderFront(nil)
+      }
     }
 
-    if window.isVisible {
-      window.makeKeyAndOrderFront(nil)
+    switch action.type {
+    case .redo:
+      if let last = lastExecutableAction {
+        execute(last, record: false)
+      } else {
+        showAlert(title: "Nothing to redo", message: "No previous action has been executed yet.")
+      }
+    default:
+      execute(action, record: true)
     }
   }
+
 
   private func clear() {
     userState.clear()
-  }
-
-  private func runLastCommand() {
-    guard let lastCommand = LastCommandTracker.shared.getLastCommand() else {
-      showAlert(
-        title: "No Previous Command",
-        message: "No command has been executed yet to repeat.")
-      return
-    }
-
-    CommandRunner.run(lastCommand)
   }
 
   private func openURL(_ action: Action) {

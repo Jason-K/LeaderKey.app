@@ -1,0 +1,24 @@
+{
+  "source": "/Users/jason/Gits/LeaderKey_Mikker/build/SourcePackages/checkouts/SymbolPicker/Sources/SymbolPicker/SymbolPicker.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "search_placeholder",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "remove_symbol",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 259
+        }
+      }
+    ]
+  },
+  "version": 1
+}

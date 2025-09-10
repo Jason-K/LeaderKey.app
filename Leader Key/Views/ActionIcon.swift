@@ -42,9 +42,9 @@ func actionIcon(item: ActionOrGroup, iconSize: NSSize) -> some View {
         Image(systemName: "folder")
           .foregroundStyle(.secondary)
           .frame(width: iconSize.width, height: iconSize.height, alignment: .center))
-    case .lastCommand:
+    case .redo:
       return AnyView(
-        Image(systemName: "arrow.clockwise")
+        Image(systemName: "arrow.counterclockwise")
           .foregroundStyle(.secondary)
           .frame(width: iconSize.width, height: iconSize.height, alignment: .center))
     default:
