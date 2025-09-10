@@ -30,3 +30,6 @@ fastlane/screenshots/**/*.png# macOS
 # Logs
 # Fastlane (if used)
 fastlane/screenshots/**/*.png
+
+# Local backups
+.gitignore.bak_*
